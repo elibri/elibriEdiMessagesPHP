@@ -1,0 +1,55 @@
+{
+  "kind": "INVOICE",
+  "invoice_number": "1/S/2014",
+  "document_type": "i",
+  "seller_id": "23",
+  "buyer_id": "11",
+  "delivery_detail_id": "11",
+  "order_id": "11",
+  "order_buyer_number": "SK/1/2014",
+  "invoice_date": "2014-08-20",
+  "sales_date": "2014-08-20",
+  "payment_due_date": "2014-09-03",
+  "seller_name": "Wydawnictwo Tylko bestsellery sp. z o. o.",
+  "seller_address": "ul Kolejowa 9/11",
+  "seller_city": "Warszawa",
+  "seller_post_code": "01-217",
+  "seller_tax_id": "9744287572",
+  "buyer_name": "Księgarnia Świetne książki sp. z o. o.",
+  "buyer_address": "Al. Niepodległości 1",
+  "buyer_city": "Warszawa",
+  "buyer_post_code": "02-653",
+  "buyer_tax_id": "1270286596",
+  "delivery_detail_name": "Księgarnia Świetne książki sp. z. o.",
+  "delivery_detail_address": "Al. Niepodległości 1",
+  "delivery_detail_city": "Warszawa",
+  "delivery_detail_post_code": "02-653",
+  "items": [
+    {
+      "quantity": "3",
+      "net_price": "25.2",
+      "net_amount": "75.6",
+      "tax_rate": "5",
+      "tax_amount": "3.78",
+      "ean": "9788388722684",
+      "buyer_code": "SK102",
+      "description": "Dziedzictwo ziemi",
+      "position": "1"
+    }
+  ],
+  "summary": {
+    "total_lines": "1",
+    "net_amount": "75.6",
+    "tax_amount": "3.78",
+    "gross_amount": "79.38",
+    "items_count": "1",
+    "tax_rate_summaries": [
+      {
+        "tax_rate": "5",
+        "net_amount": "75.6",
+        "tax_amount": "3.78",
+        "gross_amount": "79.38"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "kind": "ORDRSP",
+  "order_id": "11",
+  "order_buyer_number": "SK/1/2014",
+  "line_items": [
+    {
+      "quantity": "1",
+      "ean": "9788388722639",
+      "buyer_code": "SK101",
+      "description": "Pamięć miłości",
+      "position": "1"
+    },
+    {
+      "quantity": "3",
+      "ean": "9788388722684",
+      "buyer_code": "SK102",
+      "description": "Dziedzictwo ziemi",
+      "position": "2"
+    }
+  ]
+}

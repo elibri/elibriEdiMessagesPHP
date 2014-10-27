@@ -1,0 +1,14 @@
+{
+  "kind": "RECADV",
+  "order_id": "11",
+  "buyer_number": "PM/1/2014",
+  "despatch_advice_id": "122",
+  "line_items": [
+    {
+      "quantity": "3",
+      "ean": "9788388722684",
+      "description": "Dziedzictwo ziemi",
+      "position": "1"
+    }
+  ]
+}
