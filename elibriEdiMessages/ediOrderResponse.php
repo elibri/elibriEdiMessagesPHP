@@ -40,7 +40,7 @@
     }
 
     function to_json() {
-      json_encode($this->to_hash());
+      return json_encode($this->to_hash());
     }
   }
 
