@@ -5,7 +5,6 @@ Parse and construct eLibri Edi Messages - https://www.edi.elibri.com.pl
 
 ```
    $message = new EdiOrder();
-   $json_message = $this->load_message("order.json");
    $message->buyer_number = 'SK/1/2014';
    $message->buyer_id = '11';
    $message->seller_id = '23';
