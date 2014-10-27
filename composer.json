@@ -1,5 +1,5 @@
 {
-  "name": "elibri_edi_messages",
+  "name": "elibri/elibri_edi_messages",
   "autoload": {
      "files": ["elibriEdiMessages.php"]
    }
